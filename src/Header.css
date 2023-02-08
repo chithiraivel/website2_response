@@ -1,0 +1,180 @@
+
+#margin-none{
+    width: 280px;
+    height: 20px;
+    margin: 0px 20px;
+}
+.top{
+    
+    text-align: center;
+}
+.image{
+    background-image: url('../src/Assets/4.webp');
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    min-height: 800px;
+}
+.image {
+    height: 70%;
+}
+.wager img{
+
+    height: 150px;
+    width: 150px;
+}
+.wager{
+    margin: 0 auto;
+    text-align: center;
+}
+.wager .letter{
+    font-size: 20px;
+    color:rgb(133, 131, 131);
+    font-weight: bolder;
+    font-family: Helvetica;
+
+}
+.wager .letter2{
+    margin-top: 16px;
+    font-size: 15px;
+    color:rgb(143, 141, 141);   
+}
+.wager h1{
+    color:rgb(122, 120, 120);
+    font-size: 50px;
+}
+.wager{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.doger{
+    margin-top: 60px;
+    background-color: rgb(238, 233, 233);
+    width: 100%;
+}
+.doger .dog1{
+    color: rgb(131, 128, 128);
+    font-size: 3.3vw;
+    font-weight: bolder;
+    box-sizing: border-box;
+}
+.doger .dog2{
+    color: rgb(131, 129, 129);
+    font-size: 15px;
+    margin-top: 20px;
+}
+.doger .dog3{
+    color: rgb(86, 204, 145);
+    font-weight: bolder;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 19px;
+    margin-top: 10px;
+}
+.doger .dog4{
+    width: 300px;
+}
+.doger .dog5{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.doger img{
+    height: 90%;
+    width: 90%;
+}
+ .dog6{
+    background-image: url('../src/Assets/9.svg');
+    background-repeat: no-repeat;
+    height: 180px;
+}
+.blocker{
+    padding-top: 3%;
+    padding-bottom: 3%;
+    background-color: rgb(58, 80, 128);
+    color: a;
+}
+.blocker .blocker1{
+    color: rgb(251, 236, 185);
+    font-size: 50px;
+    font-style: italic;
+}
+.blocker .blocker2{
+    font-size: 18px;
+    width: 55%;
+    margin-left: 20px;
+    color: rgb(250, 250, 249);
+}
+.blocker .blocker3{
+    color: rgb(236, 236, 156);
+}
+.blocker .blocker4{
+    background-color: rgb(251, 236, 185);
+    color: rgb(133, 98, 62);
+    padding: 10px 24px;
+    width: 140px;
+    height: 32px; 
+    font-size: 10px;
+}
+.foot p{
+    margin: 30px 20px;
+
+}
+.top_footer .footer{
+    color: rgba(51, 189, 51, 0.986);
+    font-size: 16px;
+    text-align: left;
+}
+.top_footer .footer2{
+    color: rgb(156, 153, 153);
+    text-align: left;
+    font-size: 13px;
+}
+.footer3 span{
+    margin: 0px 10px;
+    font-size: 17px;
+}
+.footer3 .footer2{
+    margin: 20px 20px;
+}
+.top .top_footer{
+     margin-left: 10%;
+    margin-right: 10%;
+    margin: 20px 90px;
+  
+}
+.footer3 i{
+    font-size: 25px;
+    color: rgb(196, 192, 192);
+}
+.top{
+    background-color: rgb(237, 237, 237);
+}
+.head2 span{
+    margin: 10px 10px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+
+.petter1{
+    height: 180px;
+    width: 370px;
+    border: 1px solid rgb(236, 235, 232);
+    box-shadow: 1px 1px 7px rgb(182, 180, 180);
+    display: flex;
+    padding-left: 20px;
+    line-height: 20px;
+    position: relative;
+    margin: 20px 10px;
+}
+.petter1 img{
+    height: 150px;
+    width: 150px;
+}
+.petter2{
+    font-size: 60px;
+    position: relative;
+    top: -140px;
+    left: 20px;
+    color: rgb(74, 180, 136);
+}
